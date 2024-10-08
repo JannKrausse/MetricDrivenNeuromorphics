@@ -15,7 +15,10 @@ python3 optuna_hps.py
 ```
 for a whole metric-centered optimization run. Be sure to set the respective desired flags.
 
-If you use our work please cite it using the following citation:
+Lastly, it should be noted that the code contains some parts of the open source neuromorphic framwork Norse (https://github.com/norse/norse). It is written in the files whereever that is the case.
+
+## Citation
+If you use our work, please consider citing it using the below citation.
 ```bibtex
 @inproceedings{krausse202metric,
   title={On Metric-Driven Development of Embedded Neuromorphic AI},
@@ -25,5 +28,3 @@ If you use our work please cite it using the following citation:
   organization={IEEE}
 }
 ```
-
-Lastly, it should be noted that the code contains some parts of the open source neuromorphic framwork Norse (https://github.com/norse/norse). It is written in the files whereever that is the case.
