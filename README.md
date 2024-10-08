@@ -1,6 +1,7 @@
 # MetricDrivenNeuromorphics
-This is the repository with the code and supplementary information of our paper "On Metric-Driven Development of Embedded Neuromorphic AI" at IEEE SOCC'24.
+This is the repository with the code and supplementary information of our paper "On Metric-Driven Development of Embedded Neuromorphic AI" at IEEE SOCC'24. In one sentence, the paper presents an approach that automizes neural network training given a set of requirements for a specific system (e.g., IoT or Safety-Critical). Although it assesses neuromorphic networks, the approach can also well be applied to any type of neural network.
 
+## Installation and Running Experiments
 The requirements should be installed in a Python 3.9 environment. 
 ```bash
 pip install -r requirements.txt
