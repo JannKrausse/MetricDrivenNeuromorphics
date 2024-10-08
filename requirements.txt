@@ -1,0 +1,7 @@
+keras==2.9.0
+optuna==4.0.0
+pytorch-lightning==1.5.0
+qtorch==0.3.0
+tensorflow==2.9.1
+tonic==1.4.3
+torch==1.10.0
