@@ -1,23 +1,21 @@
 # MetricDrivenNeuromorphics
 This is the repository with the code and supplementary information of our paper "On Metric-Driven Development of Embedded Neuromorphic AI" at IEEE SOCC'24.
 
-The requirements should be isntalled in a Python 3.9 environment. 
+The requirements should be installed in a Python 3.9 environment. 
+```bash
+pip install -r requirements.txt
+```
 For execution, run either 
-
 ```bash
 python3 main.py
 ```
-
 or
-
 ```bash
 python3 optuna_hps.py
 ```
-
 with the respective desired flags.
 
 If you use our work please cite it using the following citation
-
 ```bibtex
 @inproceedings{krausse202metric,
   title={On Metric-Driven Development of Embedded Neuromorphic AI},
