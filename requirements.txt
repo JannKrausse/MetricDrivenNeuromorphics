@@ -1,4 +1,5 @@
 keras==2.9.0
+numpy==1.26.4
 optuna==4.0.0
 pytorch-lightning==1.5.0
 qtorch==0.3.0
