@@ -9,13 +9,13 @@ For execution, run either
 ```bash
 python3 main.py
 ```
-or
+for a single training or
 ```bash
 python3 optuna_hps.py
 ```
-with the respective desired flags.
+for a whole metric-centered optimization run. Be sure to set the respective desired flags.
 
-If you use our work please cite it using the following citation
+If you use our work please cite it using the following citation:
 ```bibtex
 @inproceedings{krausse202metric,
   title={On Metric-Driven Development of Embedded Neuromorphic AI},
